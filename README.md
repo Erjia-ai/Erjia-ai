@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Erjia Zhou</h1>
   <p><em>Exploring where AI meets the physical world.</em></p>
+  <p><strong>English</strong> · <a href="README.zh-CN.md">中文</a></p>
 </div>
 
 <br>
