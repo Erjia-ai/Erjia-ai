@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Erjia Zhou</h1>
-  <p><em>Exploring where AI meets the physical world.</em></p>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6BDDFA&background=FFFFFF00&center=true&vCenter=true&width=900&height=50&lines=Exploring+where+AI+meets+the+physical+world.;AI+%C3%97+Robotics+%C3%97+Intelligent+Hardware;Always+looking+for+what+comes+next.">
+    <img alt="Exploring where AI meets the physical world" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&background=FFFFFF00&center=true&vCenter=true&width=900&height=50&lines=Exploring+where+AI+meets+the+physical+world.;AI+%C3%97+Robotics+%C3%97+Intelligent+Hardware;Always+looking+for+what+comes+next.">
+  </picture>
+
   <p><strong>English</strong> · <a href="README.zh-CN.md">中文</a></p>
 </div>
 
