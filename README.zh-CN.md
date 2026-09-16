@@ -1,6 +1,11 @@
 <div align="center">
   <h1>周尔佳 · Erjia Zhou</h1>
-  <p><em>探索 AI 与物理世界相遇的地方。</em></p>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=28&duration=3000&pause=1000&color=6BDDFA&background=FFFFFF00&center=true&vCenter=true&width=900&height=50&lines=%E6%8E%A2%E7%B4%A2+AI+%E4%B8%8E%E7%89%A9%E7%90%86%E4%B8%96%E7%95%8C%E7%9B%B8%E9%81%87%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%82;AI+%C3%97+%E6%9C%BA%E5%99%A8%E4%BA%BA+%C3%97+%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6;%E6%80%BB%E5%9C%A8%E5%AF%BB%E6%89%BE%E4%B8%8B%E4%B8%80%E4%BB%B6%E5%80%BC%E5%BE%97%E6%8E%A2%E7%B4%A2%E7%9A%84%E6%96%B0%E4%BA%8B%E7%89%A9%E3%80%82">
+    <img alt="探索 AI 与物理世界相遇的地方" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=28&duration=3000&pause=1000&color=0969DA&background=FFFFFF00&center=true&vCenter=true&width=900&height=50&lines=%E6%8E%A2%E7%B4%A2+AI+%E4%B8%8E%E7%89%A9%E7%90%86%E4%B8%96%E7%95%8C%E7%9B%B8%E9%81%87%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%82;AI+%C3%97+%E6%9C%BA%E5%99%A8%E4%BA%BA+%C3%97+%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6;%E6%80%BB%E5%9C%A8%E5%AF%BB%E6%89%BE%E4%B8%8B%E4%B8%80%E4%BB%B6%E5%80%BC%E5%BE%97%E6%8E%A2%E7%B4%A2%E7%9A%84%E6%96%B0%E4%BA%8B%E7%89%A9%E3%80%82">
+  </picture>
+
   <p><a href="README.md">English</a> · <strong>中文</strong></p>
 </div>
 
